@@ -1,0 +1,32 @@
+Szablon:Waga
+h3dm:   1
+mtfw:   0.78
+mt_nebula: 0.98
+mt_Sapphire:  0.77
+6lm10:    0.82
+Sapphire: 0.78
+Spider: 0.73
+8xm12: 0.68
+mtMP:   0.58
+mt_jc:  0.58
+mt_JebusKing:  0.58
+Nostalgia:  0.7
+Diamond:    0.5
+mini_nosta: 0.48
+kubaryt:    0.55
+Rally:  0.52
+Endless Expanse: 0.26
+mt_Diamond: 0.52
+Jebus Cross: 0.38
+Jebus King: 0.38
+Duel:   0.23
+1 Minute Madness:    0.29
+Ashan Arena II:    0
+Conquest: 0.82
+Crazy Way: 0.02
+VD: 0.17
+mt Broken Mirror:   0.81
+mt Rancor:  0.72
+Memory Lane:    0.22
+
+inne:   0.15
